@@ -13,6 +13,6 @@
 * ~~The URL of the deployed application~~
 * ~~The URL of the GitHub repository~~
 
-[//]: # * **All functional requirements met.**
+[//]: # **All functional requirements met.**
 
 [deployed app](https://kr4mpu5.github.io/hw-05/)
