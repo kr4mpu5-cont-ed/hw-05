@@ -16,9 +16,9 @@ textarea{
 .jumbotron {
   text-align: center;
   background-color: transparent;
-  color: black;
+  color: #686057;
   border-radius: 0;
-  border-bottom: 10px solid black;
+  border-bottom: 10px solid #686057;
 }
 
 .description{
